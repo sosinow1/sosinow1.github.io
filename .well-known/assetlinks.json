@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sosinow1.twa",
+        "sha256_cert_fingerprints": ["C8:81:DA:0D:C9:A3:65:CA:B5:B5:EB:7B:D6:22:0B:1A:4D:57:A8:76:5F:AB:04:88:BC:F5:FD:AB:13:39:EC:D4"]
+      }
+    }]
